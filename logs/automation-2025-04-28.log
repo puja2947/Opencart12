@@ -1,0 +1,58 @@
+10.39.26.570 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest*******
+10.39.27.221 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+10.39.28.329 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+10.39.28.331 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+10.39.31.458 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+10.39.31.591 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest*******
+10.40.15.295 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/amriteshkumar/eclipse-workspace/seleniumworkspace/Opencart12/Master.xml
+
+10.40.24.669 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest*******
+10.40.25.673 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+10.40.27.693 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+10.40.27.696 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+10.40.30.586 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+10.40.30.695 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest*******
+12.27.43.150 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/amriteshkumar/eclipse-workspace/seleniumworkspace/Opencart12/Master.xml
+
+12.27.54.026 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest*******
+12.27.55.253 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+12.27.57.662 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+12.27.57.670 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+12.28.01.077 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+12.28.01.178 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest*******
+12.29.46.940 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/amriteshkumar/eclipse-workspace/seleniumworkspace/Opencart12/Master.xml
+
+12.29.56.324 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest*******
+12.29.57.637 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+12.29.59.997 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+12.30.00.000 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+12.30.06.358 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+12.30.06.450 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest*******
+12.32.05.777 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/amriteshkumar/eclipse-workspace/seleniumworkspace/Opencart12/Master.xml
+
+12.32.14.963 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest*******
+12.32.16.132 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+12.32.18.605 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+12.32.18.609 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+12.32.22.128 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+12.32.22.233 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest*******
+12.33.00.183 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/amriteshkumar/eclipse-workspace/seleniumworkspace/Opencart12/Master.xml
+
+12.33.09.702 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest*******
+12.33.10.875 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+12.33.13.482 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+12.33.13.485 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+12.33.16.860 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+12.33.16.959 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Finished TC001_AccountRegistrationTest*******
+12.38.49.773 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/amriteshkumar/eclipse-workspace/seleniumworkspace/Opencart12/grouping.xml
+
+12.38.58.741 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest*******
+12.39.00.629 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+12.39.04.095 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+12.39.04.100 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...

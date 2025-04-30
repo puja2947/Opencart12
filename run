@@ -1,0 +1,2 @@
+cd /Users/amriteshkumar/eclipse-workspace/seleniumworkspace/Opencart12
+mvn test
